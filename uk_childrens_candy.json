@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Haribo Starmix",
+    "type": "gummy",
+    "brand": "Haribo",
+    "description": "Mixed gummy sweets including fried eggs, rings, bears, and cola bottles"
+  },
+  {
+    "name": "Jelly Babies",
+    "type": "jelly",
+    "brand": "Bassetts",
+    "description": "Soft jelly sweets in the shape of babies, available in mixed fruit flavours"
+  },
+  {
+    "name": "Percy Pigs",
+    "type": "gummy",
+    "brand": "Marks & Spencer",
+    "description": "Pig-shaped gummy sweets with a raspberry and grape flavour"
+  },
+  {
+    "name": "Fruit Pastilles",
+    "type": "chewy",
+    "brand": "Rowntree's",
+    "description": "Chewy fruit-flavoured pastilles in a tube"
+  },
+  {
+    "name": "Refreshers",
+    "type": "chewy",
+    "brand": "Swizzels",
+    "description": "Fizzy chewy sweets in lemon and strawberry flavours"
+  },
+  {
+    "name": "Chewits",
+    "type": "chewy",
+    "brand": "Leaf",
+    "description": "Chewy sweets in strawberry, fruit salad, and other flavours"
+  },
+  {
+    "name": "Love Hearts",
+    "type": "hard",
+    "brand": "Swizzels",
+    "description": "Heart-shaped hard sweets with romantic messages, in fruit flavours"
+  },
+  {
+    "name": "Millions",
+    "type": "chewy",
+    "brand": "Tangerine",
+    "description": "Tiny chewy sweets in various fruit flavours"
+  },
+  {
+    "name": "Sherbet Fountain",
+    "type": "sherbet",
+    "brand": "Barratt",
+    "description": "A liquorice straw with sherbet powder inside"
+  },
+  {
+    "name": "Fizzy Cola Bottles",
+    "type": "gummy",
+    "brand": "various",
+    "description": "Cola-flavoured gummy sweets coated in sour sugar"
+  },
+  {
+    "name": "Strawberry Laces",
+    "type": "chewy",
+    "brand": "various",
+    "description": "Long, flat strawberry-flavoured chewy candy laces"
+  },
+  {
+    "name": "Drumstick Lollies",
+    "type": "lolly",
+    "brand": "Swizzels",
+    "description": "Raspberry and milk flavoured hard lollipops"
+  },
+  {
+    "name": "Flying Saucers",
+    "type": "sherbet",
+    "brand": "various",
+    "description": "Rice paper discs filled with sherbet powder"
+  },
+  {
+    "name": "Liquorice Allsorts",
+    "type": "liquorice",
+    "brand": "Bassetts",
+    "description": "A mix of liquorice and sugar-coated sweets in various shapes and colours"
+  },
+  {
+    "name": "Tangfastics",
+    "type": "gummy",
+    "brand": "Haribo",
+    "description": "Sour gummy sweets in various shapes, coated with sour sugar"
+  }
+]
