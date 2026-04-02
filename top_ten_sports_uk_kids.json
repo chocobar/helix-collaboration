@@ -1,0 +1,55 @@
+{
+  "title": "Top Ten Sports for Kids in the UK",
+  "sports": [
+    {
+      "rank": 1,
+      "name": "Football (Soccer)",
+      "notes": "By far the most popular, with millions of children playing in school and club teams"
+    },
+    {
+      "rank": 2,
+      "name": "Swimming",
+      "notes": "Widely participated in through school programs and leisure centres"
+    },
+    {
+      "rank": 3,
+      "name": "Athletics",
+      "notes": "Track and field events popular through school sports days and clubs"
+    },
+    {
+      "rank": 4,
+      "name": "Cricket",
+      "notes": "Especially popular in summer, with strong junior club networks"
+    },
+    {
+      "rank": 5,
+      "name": "Rugby",
+      "notes": "Both union and league have strong youth programs, particularly in Wales, England, and Scotland"
+    },
+    {
+      "rank": 6,
+      "name": "Tennis",
+      "notes": "Boosted by Wimbledon, with LTA junior programs widely available"
+    },
+    {
+      "rank": 7,
+      "name": "Gymnastics",
+      "notes": "One of the fastest-growing sports for young children, especially girls"
+    },
+    {
+      "rank": 8,
+      "name": "Cycling",
+      "notes": "Recreational and competitive, supported by British Cycling's Go-Ride program"
+    },
+    {
+      "rank": 9,
+      "name": "Netball",
+      "notes": "Hugely popular with girls in schools across the UK"
+    },
+    {
+      "rank": 10,
+      "name": "Martial Arts",
+      "notes": "Karate, judo, and taekwondo all have large junior participation numbers"
+    }
+  ]
+}
