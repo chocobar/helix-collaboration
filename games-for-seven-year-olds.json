@@ -1,0 +1,72 @@
+[
+  {
+    "rank": 1,
+    "title": "Mario Kart 8 Deluxe",
+    "platform": ["Nintendo Switch"],
+    "genre": "Racing",
+    "why_great": "Simple controls, colorful tracks, and fun multiplayer with family"
+  },
+  {
+    "rank": 2,
+    "title": "Minecraft",
+    "platform": ["PC", "Xbox", "PlayStation", "Nintendo Switch", "Mobile"],
+    "genre": "Sandbox / Creative",
+    "why_great": "Encourages creativity and exploration in a safe, blocky world"
+  },
+  {
+    "rank": 3,
+    "title": "Super Mario Odyssey",
+    "platform": ["Nintendo Switch"],
+    "genre": "Platformer",
+    "why_great": "Imaginative worlds, forgiving difficulty, and tons of collectibles"
+  },
+  {
+    "rank": 4,
+    "title": "Kirby and the Forgotten Land",
+    "platform": ["Nintendo Switch"],
+    "genre": "Platformer",
+    "why_great": "Easy to pick up, charming characters, and cooperative play option"
+  },
+  {
+    "rank": 5,
+    "title": "LEGO Star Wars: The Skywalker Saga",
+    "platform": ["PC", "Xbox", "PlayStation", "Nintendo Switch"],
+    "genre": "Action Adventure",
+    "why_great": "Humorous retelling of Star Wars with simple combat and puzzle solving"
+  },
+  {
+    "rank": 6,
+    "title": "Animal Crossing: New Horizons",
+    "platform": ["Nintendo Switch"],
+    "genre": "Life Simulation",
+    "why_great": "Relaxed, no-pressure gameplay that teaches patience and creativity"
+  },
+  {
+    "rank": 7,
+    "title": "Splatoon 3",
+    "platform": ["Nintendo Switch"],
+    "genre": "Shooter",
+    "why_great": "Kid-friendly ink-based shooter focused on painting turf, not violence"
+  },
+  {
+    "rank": 8,
+    "title": "Pokémon Scarlet / Violet",
+    "platform": ["Nintendo Switch"],
+    "genre": "RPG",
+    "why_great": "Open-world adventure with beloved characters and light strategy"
+  },
+  {
+    "rank": 9,
+    "title": "Rayman Legends",
+    "platform": ["PC", "Xbox", "PlayStation", "Nintendo Switch"],
+    "genre": "Platformer",
+    "why_great": "Bright visuals, music-based levels, and up to four-player co-op"
+  },
+  {
+    "rank": 10,
+    "title": "Stardew Valley",
+    "platform": ["PC", "Xbox", "PlayStation", "Nintendo Switch", "Mobile"],
+    "genre": "Farming Simulation",
+    "why_great": "Peaceful farming and town life with no time pressure or danger"
+  }
+]
