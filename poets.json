@@ -1,0 +1,122 @@
+[
+  {
+    "name": "William Shakespeare",
+    "born": 1564,
+    "died": 1616,
+    "nationality": "English",
+    "poems": [
+      "Sonnet 18 (Shall I compare thee to a summer's day?)",
+      "Sonnet 116 (Let me not to the marriage of true minds)",
+      "Sonnet 130 (My mistress' eyes are nothing like the sun)",
+      "The Phoenix and the Turtle"
+    ]
+  },
+  {
+    "name": "Emily Dickinson",
+    "born": 1830,
+    "died": 1886,
+    "nationality": "American",
+    "poems": [
+      "Because I could not stop for Death",
+      "I heard a Fly buzz – when I died",
+      "Hope is the thing with feathers",
+      "Tell all the truth but tell it slant"
+    ]
+  },
+  {
+    "name": "Robert Frost",
+    "born": 1874,
+    "died": 1963,
+    "nationality": "American",
+    "poems": [
+      "The Road Not Taken",
+      "Stopping by Woods on a Snowy Evening",
+      "Mending Wall",
+      "Nothing Gold Can Stay"
+    ]
+  },
+  {
+    "name": "Pablo Neruda",
+    "born": 1904,
+    "died": 1973,
+    "nationality": "Chilean",
+    "poems": [
+      "Tonight I Can Write the Saddest Lines",
+      "Ode to My Socks",
+      "If You Forget Me",
+      "I Do Not Love You Except Because I Love You"
+    ]
+  },
+  {
+    "name": "Langston Hughes",
+    "born": 1902,
+    "died": 1967,
+    "nationality": "American",
+    "poems": [
+      "The Negro Speaks of Rivers",
+      "Harlem (What happens to a dream deferred?)",
+      "I, Too",
+      "Mother to Son"
+    ]
+  },
+  {
+    "name": "Walt Whitman",
+    "born": 1819,
+    "died": 1892,
+    "nationality": "American",
+    "poems": [
+      "Song of Myself",
+      "O Captain! My Captain!",
+      "I Sing the Body Electric",
+      "When Lilacs Last in the Dooryard Bloom'd"
+    ]
+  },
+  {
+    "name": "Maya Angelou",
+    "born": 1928,
+    "died": 2014,
+    "nationality": "American",
+    "poems": [
+      "Still I Rise",
+      "Phenomenal Woman",
+      "Caged Bird",
+      "On the Pulse of Morning"
+    ]
+  },
+  {
+    "name": "William Butler Yeats",
+    "born": 1865,
+    "died": 1939,
+    "nationality": "Irish",
+    "poems": [
+      "The Second Coming",
+      "Sailing to Byzantium",
+      "The Lake Isle of Innisfree",
+      "When You Are Old"
+    ]
+  },
+  {
+    "name": "Edgar Allan Poe",
+    "born": 1809,
+    "died": 1849,
+    "nationality": "American",
+    "poems": [
+      "The Raven",
+      "Annabel Lee",
+      "The Bells",
+      "El Dorado"
+    ]
+  },
+  {
+    "name": "Rumi",
+    "born": 1207,
+    "died": 1273,
+    "nationality": "Persian",
+    "poems": [
+      "The Guest House",
+      "Out Beyond Ideas",
+      "The Reed Flute's Song",
+      "Only Breath"
+    ]
+  }
+]
