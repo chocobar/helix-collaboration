@@ -1,0 +1,85 @@
+{
+  "title": "Top 10 Aquatic Animals in the UK",
+  "animals": [
+    {
+      "rank": 1,
+      "name": "Atlantic Salmon",
+      "scientific_name": "Salmo salar",
+      "habitat": "Rivers and coastal seas",
+      "type": "Fish",
+      "notes": "Iconic migratory fish found in many UK rivers"
+    },
+    {
+      "rank": 2,
+      "name": "Common Seal (Harbour Seal)",
+      "scientific_name": "Phoca vitulina",
+      "habitat": "Coastal waters and estuaries",
+      "type": "Marine mammal",
+      "notes": "Widespread around UK coastlines, especially Scotland"
+    },
+    {
+      "rank": 3,
+      "name": "Bottlenose Dolphin",
+      "scientific_name": "Tursiops truncatus",
+      "habitat": "Coastal and offshore waters",
+      "type": "Marine mammal",
+      "notes": "Notable population in Cardigan Bay and the Moray Firth"
+    },
+    {
+      "rank": 4,
+      "name": "Basking Shark",
+      "scientific_name": "Cetorhinus maximus",
+      "habitat": "Coastal surface waters",
+      "type": "Fish (shark)",
+      "notes": "Second largest fish in the world; commonly seen off SW England and Scotland in summer"
+    },
+    {
+      "rank": 5,
+      "name": "European Otter",
+      "scientific_name": "Lutra lutra",
+      "habitat": "Rivers, lakes, and coastal areas",
+      "type": "Semi-aquatic mammal",
+      "notes": "Protected species recovering well in UK waterways"
+    },
+    {
+      "rank": 6,
+      "name": "Grey Seal",
+      "scientific_name": "Halichoerus grypus",
+      "habitat": "Coastal waters and rocky shores",
+      "type": "Marine mammal",
+      "notes": "UK hosts over 35% of the world's grey seal population"
+    },
+    {
+      "rank": 7,
+      "name": "Minke Whale",
+      "scientific_name": "Balaenoptera acutorostrata",
+      "habitat": "Offshore and coastal seas",
+      "type": "Marine mammal",
+      "notes": "Most commonly sighted whale in UK waters"
+    },
+    {
+      "rank": 8,
+      "name": "European Lobster",
+      "scientific_name": "Homarus gammarus",
+      "habitat": "Rocky coastal seabeds",
+      "type": "Crustacean",
+      "notes": "Commercially important species found around the UK coast"
+    },
+    {
+      "rank": 9,
+      "name": "Common Octopus",
+      "scientific_name": "Octopus vulgaris",
+      "habitat": "Coastal rocky reefs and seabeds",
+      "type": "Cephalopod mollusc",
+      "notes": "Found in warmer UK coastal waters, particularly southern England"
+    },
+    {
+      "rank": 10,
+      "name": "Leatherback Sea Turtle",
+      "scientific_name": "Dermochelys coriacea",
+      "habitat": "Open ocean and coastal waters",
+      "type": "Reptile",
+      "notes": "Largest turtle species; migrates to UK waters to feed on jellyfish"
+    }
+  ]
+}
