@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Cluedo",
+    "min_age": 8,
+    "players": "2-6",
+    "description": "Classic mystery game where players deduce who committed a murder, with which weapon, and in which room."
+  },
+  {
+    "name": "Monopoly",
+    "min_age": 8,
+    "players": "2-8",
+    "description": "Property trading game where players buy, sell, and develop properties to bankrupt opponents."
+  },
+  {
+    "name": "Snakes and Ladders",
+    "min_age": 3,
+    "players": "2-4",
+    "description": "Simple race board game where players climb ladders and slide down snakes to reach the finish."
+  },
+  {
+    "name": "Ludo",
+    "min_age": 5,
+    "players": "2-4",
+    "description": "Classic race game where players move tokens around the board to reach home before opponents."
+  },
+  {
+    "name": "Scrabble Junior",
+    "min_age": 5,
+    "players": "2-4",
+    "description": "Child-friendly version of Scrabble designed to build spelling and vocabulary skills."
+  },
+  {
+    "name": "Guess Who?",
+    "min_age": 6,
+    "players": "2",
+    "description": "Deduction game where players ask yes/no questions to identify their opponent's mystery character."
+  },
+  {
+    "name": "Connect 4",
+    "min_age": 6,
+    "players": "2",
+    "description": "Strategy game where players drop coloured discs into a grid to connect four in a row."
+  },
+  {
+    "name": "Jenga",
+    "min_age": 6,
+    "players": "2+",
+    "description": "Dexterity game where players take turns removing blocks from a tower without toppling it."
+  },
+  {
+    "name": "Operation",
+    "min_age": 6,
+    "players": "2-6",
+    "description": "Skill game where players use tweezers to remove ailments from a patient without touching the edges."
+  },
+  {
+    "name": "Hungry Hippos",
+    "min_age": 4,
+    "players": "2-4",
+    "description": "Fast-paced game where players operate hippo levers to gobble up as many marbles as possible."
+  },
+  {
+    "name": "Mouse Trap",
+    "min_age": 6,
+    "players": "2-4",
+    "description": "Players build an elaborate Rube Goldberg-style mouse trap to catch opponents' mice."
+  },
+  {
+    "name": "Articulate! For Kids",
+    "min_age": 6,
+    "players": "4+",
+    "description": "Team-based description game where players race to describe words on cards without saying the word itself."
+  },
+  {
+    "name": "Dobble",
+    "min_age": 6,
+    "players": "2-8",
+    "description": "Speedy card game where players spot the one matching symbol between any two cards."
+  },
+  {
+    "name": "Uno",
+    "min_age": 7,
+    "players": "2-10",
+    "description": "Card game where players match colours and numbers to shed their hand, using action cards to hinder others."
+  },
+  {
+    "name": "Labyrinth (Junior)",
+    "min_age": 5,
+    "players": "2-4",
+    "description": "Maze puzzle game where players shift tiles to create paths and collect treasures."
+  },
+  {
+    "name": "Buckaroo",
+    "min_age": 4,
+    "players": "2-4",
+    "description": "Players take turns placing items onto a toy mule without causing it to kick everything off."
+  },
+  {
+    "name": "Frustration",
+    "min_age": 5,
+    "players": "2-4",
+    "description": "Race game featuring the iconic Pop-O-Matic bubble dice roller, where players can send opponents back to start."
+  },
+  {
+    "name": "Kerplunk",
+    "min_age": 5,
+    "players": "2-4",
+    "description": "Players take turns removing sticks from a tube full of marbles, trying to drop the fewest marbles."
+  },
+  {
+    "name": "Pictionary Junior",
+    "min_age": 7,
+    "players": "4+",
+    "description": "Team drawing and guessing game using age-appropriate words and pictures."
+  },
+  {
+    "name": "Pop Up Pirate",
+    "min_age": 4,
+    "players": "2-4",
+    "description": "Players take turns inserting swords into a barrel until the pirate pops up — the one who triggers it loses."
+  }
+]
