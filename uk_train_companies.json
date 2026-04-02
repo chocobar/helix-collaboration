@@ -1,0 +1,64 @@
+{
+  "uk_train_companies": [
+    {
+      "rank": 1,
+      "name": "Avanti West Coast",
+      "operator": "Avanti West Coast Trains Ltd",
+      "routes": "London Euston to Manchester, Liverpool, Birmingham, Glasgow, Edinburgh"
+    },
+    {
+      "rank": 2,
+      "name": "CrossCountry",
+      "operator": "Arriva CrossCountry",
+      "routes": "Aberdeen to Penzance, Birmingham hub, connecting major UK cities"
+    },
+    {
+      "rank": 3,
+      "name": "East Midlands Railway",
+      "operator": "Abellio East Midlands",
+      "routes": "London St Pancras to Nottingham, Derby, Sheffield, Leeds"
+    },
+    {
+      "rank": 4,
+      "name": "Great Western Railway",
+      "operator": "FirstGroup",
+      "routes": "London Paddington to Bristol, Cardiff, Exeter, Plymouth, Penzance"
+    },
+    {
+      "rank": 5,
+      "name": "LNER (London North Eastern Railway)",
+      "operator": "London North Eastern Railway (public sector)",
+      "routes": "London Kings Cross to Leeds, York, Newcastle, Edinburgh, Aberdeen"
+    },
+    {
+      "rank": 6,
+      "name": "Northern Trains",
+      "operator": "Northern Trains Ltd (public sector)",
+      "routes": "Regional services across the North of England"
+    },
+    {
+      "rank": 7,
+      "name": "ScotRail",
+      "operator": "Scottish Rail Holdings (public sector)",
+      "routes": "Services across Scotland"
+    },
+    {
+      "rank": 8,
+      "name": "Southeastern",
+      "operator": "SE Trains Ltd (public sector)",
+      "routes": "London to Kent and East Sussex"
+    },
+    {
+      "rank": 9,
+      "name": "South Western Railway",
+      "operator": "FirstGroup & MTR",
+      "routes": "London Waterloo to Southampton, Bournemouth, Exeter, Portsmouth"
+    },
+    {
+      "rank": 10,
+      "name": "Thameslink / Great Northern",
+      "operator": "Govia Thameslink Railway",
+      "routes": "Bedford to Brighton, Cambridge to London, Gatwick Airport services"
+    }
+  ]
+}
