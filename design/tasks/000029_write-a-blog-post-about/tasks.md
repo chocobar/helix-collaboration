@@ -9,4 +9,4 @@
 - [x] Write Heap Sort section (explanation + Python code + complexity)
 - [x] Create the comparison summary table (time/space complexity, stability, in-place)
 - [x] Write the conclusion (guidance on choosing the right algorithm)
-- [~] Review the full post for accuracy, flow, and Markdown formatting
+- [x] Review the full post for accuracy, flow, and Markdown formatting

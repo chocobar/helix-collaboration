@@ -35,3 +35,11 @@ Each algorithm section follows the same template:
 4. Complexity analysis (table: best/average/worst time + space)
 
 The comparison table at the end consolidates all complexity info plus stability and in-place properties.
+
+## Implementation Notes
+
+- Deliverable is a single file `sorting-algorithms.md` in the repo root — no other files needed.
+- Used a readable (list-comprehension based) Quick Sort implementation rather than in-place Lomuto/Hoare partition, since clarity matters more than performance in a blog post.
+- Post is ~2400 words, within the 1500-3000 target range.
+- Each algorithm section follows the exact same template for consistency: summary, how-it-works, code, complexity table.
+- Included a practical "when to use what" conclusion section and a mention of real-world hybrid algorithms (Timsort, dual-pivot Quick Sort) to bridge theory and practice.
