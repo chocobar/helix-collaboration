@@ -1,6 +1,6 @@
 # Implementation Tasks
 
-- [ ] Write the introduction section (why sorting matters, what the post covers)
+- [~] Write the introduction section (why sorting matters, what the post covers)
 - [ ] Write Bubble Sort section (explanation + Python code + complexity)
 - [ ] Write Selection Sort section (explanation + Python code + complexity)
 - [ ] Write Insertion Sort section (explanation + Python code + complexity)
